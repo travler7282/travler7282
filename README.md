@@ -8,40 +8,7 @@ Experienced in building and operating systems in **secure, air-gapped, and regul
 
 ## 🚀 Featured Projects
 
-### 🧱 Platform Engineering Lab
-Self-hosted platform simulating enterprise infrastructure.
-
-- Kubernetes / container orchestration
-- CI/CD pipelines (GitLab)
-- Observability (Prometheus, Grafana)
-- Infrastructure automation
-
----
-
-### ⚙️ GitLab Automation Toolkit
-Python-based automation for managing GitLab environments.
-
-- Artifact lifecycle cleanup
-- API-driven automation
-- Pipeline tooling
-
----
-
-### 📊 Observability Stack Demo
-End-to-end monitoring and logging system.
-
-- Prometheus metrics
-- Grafana dashboards
-- Alerting and visualization
-
----
-
-### 🔐 Air-Gapped DevOps Toolkit
-Automation tools designed for restricted and secure environments.
-
-- Offline-friendly tooling
-- Minimal dependency design
-- Secure execution patterns
+### WIP: These are coming soon.
 
 ---
 
