@@ -42,4 +42,4 @@ work with Angular, Vue, React, and Vite along with showcasing the AWS work with 
 ## 📫 Contact
 
 * LinkedIn: https://linkedin.com/in/travler7282 (Solid, Connect with me)
-* YouTube: [https://www.youtube.com/@TravlersVideos](https://www.youtube.com/@Travler7282SwDevOps) (WIP)
+* YouTube: [https://www.youtube.com/@Travler7282SwDevOps](https://www.youtube.com/@Travler7282SwDevOps) (WIP)
