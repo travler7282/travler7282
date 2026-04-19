@@ -15,11 +15,14 @@ work with Angular, Vue, React, and Vite along with showcasing the AWS work with 
 
 ### Additional Projects/Apps
 * SDRx App: 
-  [App](https://www.travler7282.com/angular-app) [GitHub Repository](https://www.github.com/travler7282/www-travler7282-com/apps/angular-app)
+  - [App](https://www.travler7282.com/angular-app)
+  - [GitHub Repository](https://www.github.com/travler7282/www-travler7282-com/apps/angular-app)
 * RoboArm App:
-  [App](https://www.travler7282.com/react-app) [GitHub Repository](https://www.github.com/travler7282/www-travler7282-com/apps/react-app)
+  - [App](https://www.travler7282.com/react-app)
+  - [GitHub Repository](https://www.github.com/travler7282/www-travler7282-com/apps/react-app)
 * WxStation App:
-  [App](https://www.travler7282.com/vue-app) [GitHub Repository](https://www.github.com/travler7282/www-travler7282-com/apps/vue-app)
+  - [App](https://www.travler7282.com/vue-app)
+  - [GitHub Repository](https://www.github.com/travler7282/www-travler7282-com/apps/vue-app)
 * More projects/apps are coming as I get time to release them
 ---
 
