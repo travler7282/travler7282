@@ -31,7 +31,7 @@ work with Angular, Vue, React, and Vite along with showcasing the AWS work with 
 * Linux: RHEL 8/9, Fedora, Ubuntu, Many Other Distros, Linux Kernel Module | Driver | Low-Level OS/Kernel Work
 * Embedded: Raspberry PI | Arduino | PIC Microcontroller | 3D Printers | Laser Cutters/Engravers | Satellite/Cable/IP set-top-boxs | Software Defined Radios (SDR)
 * Python • C/C++ • Java • Go • Rust • JavaScript • HTML5 • React+Vite • Vue+Vite • Perl • Ruby • Bash
-* Kubernetes • Docker • OpenShift * OpenStack * VMWare/vCenter/ESX(i) * Rancher  
+* Kubernetes • Docker • OpenShift • OpenStack • VMWare/vCenter/ESX(i) • Rancher  
 * GitLab • GitHub • Bitbucket
 * CI/CD: Jenkins • GitLab Pipelines • GitHub Actions • Bamboo
 * Ansible • Puppet
@@ -39,6 +39,9 @@ work with Angular, Vue, React, and Vite along with showcasing the AWS work with 
 * Artifact Management: Nexus Repository Manager • Life Cycle • IQ Server • Artifactory • X-Ray
 * Database: MySQL • MariaDB • MSSQL • MongoDB • PostgreSQL
 * ElasticSearch • ElasticStack • FileBeats • LogStash
+* UI/Frontend/: Angular • React • Vue • Vite
+* Backend: Node.js + Express, FastAPI, OpenAPI
+* CMS: DJango • Drupal • Wordpress • Joomla
 ---
 
 ## 🔐 Experience Highlights
